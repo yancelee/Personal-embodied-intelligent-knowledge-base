@@ -46,7 +46,7 @@ Personal-embodied-intelligent-knowledge-base/
 
 1. **新增论文**：在对应方向文件夹下创建以 arXiv ID 命名的子目录，写入 `paper.md` 记录元信息。
 2. **撰写笔记**：在论文目录下或方向文件夹内创建 `xxx-notes.md`。
-. **维护索引**（可选）：在各方向文件夹的 `README.md` 中维护论文 / 笔记清单，便于速览。
+3. **维护索引**（可选）：在各方向文件夹的 `README.md` 中维护论文 / 笔记清单，便于速览。
 
 ## License
 
